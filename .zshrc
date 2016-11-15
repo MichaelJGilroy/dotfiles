@@ -30,4 +30,4 @@ fi
 # helpful shortcuts
 alias ls="ls --color=auto"
 alias ll="ls -l --color=auto"
-
+alias external="wget http://ipinfo.io/ip -qO -"
